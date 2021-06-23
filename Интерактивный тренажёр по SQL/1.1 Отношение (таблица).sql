@@ -14,4 +14,5 @@ Query result:
 
 INSERT INTO book (title, author, price, amount) 
 VALUES ('Мастер и Маргарита', 'Булгаков М.А.', '670.99', 3);
-select * from book
+
+SELECT * FROM book;
